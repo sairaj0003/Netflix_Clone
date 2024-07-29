@@ -1,7 +1,7 @@
 # Netflix Clone
 ### This is a clone of Netflix Landing page
 
-Website Link: htpps://sairaj0003.github.io/Netflix_Clone/
+Website Link: https://sairaj0003.github.io/Netflix_Clone/
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/3a269930-64aa-45f0-810a-72966eb74fe6)
